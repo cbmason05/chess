@@ -222,4 +222,3 @@ void Bishop::Move(int x, int y, char (*board)[10]){
     else cout << " Error: Wrong movement. " << endl;
     
 }
-
