@@ -224,4 +224,4 @@ void Bishop::Move(int x, int y, char (*board)[10]){
 }
 
 
-//testing brnahc merging, (this should start in "test-branch")
+//testing branch merging, (this should start in "test-branch")
